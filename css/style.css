@@ -36,10 +36,10 @@
     .greeting__head__content{
         margin-top: 40px;
         color: red;
-        font-size: 0.4rem;
+        font-size: 0.7rem;
         margin-left: 40px;
         margin-right: 40px;
-        line-height: 1rem;
+        line-height: 1.1rem;
     }
 
     #project{
