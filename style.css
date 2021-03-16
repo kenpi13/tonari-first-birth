@@ -1,0 +1,69 @@
+.greeting__head__container{
+    margin: 0 auto;
+}
+
+@media screen and (max-width:740px){
+    .top-image{
+        width:100%;
+        max-width: 100%;
+        height: auto;
+    }
+    #greeting{
+        padding:30px;
+    }
+    .greeting__head__anniversary{
+        margin-top: 40px;
+    }
+    
+    .anniversary__head{
+        color: red;
+        font-size: 0.8rem;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    .greeting__head__title{
+        margin-top: 20px;
+    }
+
+    .greeting__head__title__words{
+        font-size: 1.8rem;
+        font-weight: bold;
+        line-height: 2.5rem;
+        text-align: center;
+    }
+
+    .greeting__head__content{
+        margin-top: 40px;
+        color: red;
+        font-size: 0.4rem;
+        margin-left: 40px;
+        margin-right: 40px;
+        line-height: 1rem;
+    }
+
+    #project{
+        background-color: #EEEEEE;
+        padding: 30px;
+    }
+    .project__content__container{
+    }
+    .project__greet{
+        color: red;
+        font-size: 0.8rem;
+        font-weight: bold;
+        text-align: center;
+    }
+    .greeting__head__content{
+        margin-top: 20px;
+    }
+    .sub{
+        width:60px;
+    }
+    .sub-ul{
+        display: inline;
+    }
+    .bunsyu__container__wrap{
+        margin-top: 40px;
+    }
+}
