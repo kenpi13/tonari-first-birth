@@ -9,10 +9,10 @@
         height: auto;
     }
     #greeting{
-        padding:30px;
+        padding:50px 30px;
     }
     .greeting__head__anniversary{
-        margin-top: 40px;
+        
     }
     
     .anniversary__head{
@@ -34,7 +34,7 @@
     }
 
     .greeting__head__content{
-        margin-top: 40px;
+        margin-top: 60px;
         color: red;
         font-size: 0.7rem;
         margin-left: 40px;
@@ -44,7 +44,7 @@
 
     #project{
         background-color: #EEEEEE;
-        padding: 30px;
+        padding: 50px 30px;
     }
     .project__content__container{
     }
